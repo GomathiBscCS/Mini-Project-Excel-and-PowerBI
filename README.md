@@ -93,17 +93,17 @@ The following KPIs were used to provide a quick overview of the business perform
 - Average Customer Rating
 - Returning Customers
 ### Visualizations
-**Sales by Product Category - Column Chart**
+- **Sales by Product Category - Column Chart**
 Used to compare total sales across different product categories.
-**Sales by City - Bar Chart**
+- **Sales by City - Bar Chart**
 Used to identify cities with higher sales performance.
-**New vs Returning Customers - Donut Chart**
+- **New vs Returning Customers - Donut Chart**
 Used to compare the distribution of new and returning customers.
-**Monthly Sales Trend - Line Chart**
+- **Monthly Sales Trend - Line Chart**
 Used to analyse changes in sales over time.
-**Category Sales summary - Matrix**
+- **Category Sales summary - Matrix**
 Used to compare total sales, orders, quantity, and customer rating across product categories.
-**Sales by Age Group - Treemap**
+- **Sales by Age Group - Treemap**
 Used to compare the sales contribution of different age groups.
 ### Slicers
 The following slicers were added to make the dashboard interactive:
