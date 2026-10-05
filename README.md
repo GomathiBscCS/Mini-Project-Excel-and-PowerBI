@@ -71,4 +71,63 @@ The model contains:
 - The relationships were reviewed to ensure that the tables could work together correctly for filtering and analysis.
 The date table includes fields such as Year, Month Name, Month Number, and Quarter to support time-based analysis.
 ## 8. DAX Measures
-DAX measures were created in Power BI 
+DAX measures were created in Power BI to calculate important business metrics and support the dashboard analysis.
+The main measures created were:
+- Total Sales
+- Total Orders
+- Total Quantity
+- Average Order Value
+- Average Customer Rating
+- Total Discount
+- Discount Percentage
+- Returning Customers
+These measures were used in KPI cards, charts, and the dashboard to analyse sales performance and customer behaviour.
+## 9. Dashboard & Visualizations
+An interactive includes KPI cards, charts, a matrix and slicers.
+### KPI Cards
+The following KPIs were used to provide a quick overview of the business performance:
+- Total Sales
+- Total Orders
+- Total Quantity
+- Average Order Value
+- Average Customer Rating
+- Returning Customers
+### Visualizations
+**Sales by Product Category - Column Chart**
+Used to compare total sales across different product categories.
+**Sales by City - Bar Chart**
+Used to identify cities with higher sales performance.
+**New vs Returning Customers - Donut Chart**
+Used to compare the distribution of new and returning customers.
+**Monthly Sales Trend - Line Chart**
+Used to analyse changes in sales over time.
+**Category Sales summary - Matrix**
+Used to compare total sales, orders, quantity, and customer rating across product categories.
+**Sales by Age Group - Treemap**
+Used to compare the sales contribution of different age groups.
+### Slicers
+The following slicers were added to make the dashboard interactive:
+- Year
+- Product Category
+- City
+- Customer Type
+- Gender
+The slicers allow users to filter the dashboard and explore the data from different perspectives.
+## 10. Key Insights
+The dashboard analysis provide the following key insights:
+- The total sales generated from the dataset are approximately 706.08K.
+- The dataset contains 699 total orders.
+- The total quantity sold is approximately 2K.
+- The average order value is approximately 1.01K.
+- The average customer rating is approximately 3.94.
+- There are 414 returning customers and 285 new customers.
+- Electronics is the highest performing product category based on total sales.
+- Istanbul is the highest performing city based on total sales.
+- The dashboard shows differences in sales contribution across different age groups.
+- Monthly sales trends can be analysed using the interactive line chart.
+- The dashboard allows users to filter the analysis by year, product category, city, customer type, and gender.
+## 11. Conclusion
+This project provided an opportunity to analyse e-commerce sales and customer behaviour using Excel and Power BI.
+Excel was used for data cleaning, pre-processing, validation, and calculated columns. Power Query was used to transform and prepare the data, while Power BI was used for data modelling, DAX calculations, and interactive dashboard creation.
+The final dashboard provides a clear view of sales performance, customer behaviour, product categories, cities, age groups and sales trends. The interactive filters allow users to explore the data from different perspectives.
+Overall, the project demonstrates how data cleaning, transformation, modelling, calculations, and visualization can be combined to support data-driven business decisions.
